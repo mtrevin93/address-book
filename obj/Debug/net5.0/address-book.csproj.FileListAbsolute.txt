@@ -1,0 +1,16 @@
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.csproj.AssemblyReference.cache
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.AssemblyInfoInputs.cache
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.AssemblyInfo.cs
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.csproj.CoreCompileInputs.cache
+C:\Users\ikana\workspace\address-book\bin\Debug\net5.0\address-book.exe
+C:\Users\ikana\workspace\address-book\bin\Debug\net5.0\address-book.deps.json
+C:\Users\ikana\workspace\address-book\bin\Debug\net5.0\address-book.runtimeconfig.json
+C:\Users\ikana\workspace\address-book\bin\Debug\net5.0\address-book.runtimeconfig.dev.json
+C:\Users\ikana\workspace\address-book\bin\Debug\net5.0\address-book.dll
+C:\Users\ikana\workspace\address-book\bin\Debug\net5.0\ref\address-book.dll
+C:\Users\ikana\workspace\address-book\bin\Debug\net5.0\address-book.pdb
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.dll
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\ref\address-book.dll
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.pdb
+C:\Users\ikana\workspace\address-book\obj\Debug\net5.0\address-book.genruntimeconfig.cache
