@@ -14,14 +14,25 @@ public void AddContact(Contact contact)
     {
     this.ContactInfo.Add(contact.Email, contact);
     }
-    catch (System.ArgumentException ex)
+    catch (System.ArgumentException)
     {
-        Console.WriteLine($"Error trying to add contact: {ex}\n");
+        Console.WriteLine($"\nTried to add duplicate contact\n");
     }
 }
 public Contact GetByEmail(string email)
+//Creating empty contact probably not the best implementation here, but wanted to experiment with TryGet
 {
-    return this.ContactInfo[email];
+    if (this.ContactInfo.TryGetValue( email, out Contact contact))
+    {
+        return this.ContactInfo[email];
+    }
+    else 
+    {
+        Console.WriteLine($"\nItem {email} not found in dictionary");
+        Contact notFound = new Contact();
+        return notFound;
+    }
 }
+
 }
 }
